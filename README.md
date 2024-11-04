@@ -1,2 +1,2 @@
-# Data-Visualization-
+# Data-Visualization
 PROJECT FROM SCHOOL
